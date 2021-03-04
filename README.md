@@ -32,7 +32,7 @@ $ git clone https://github.com/aissaouiali2020/hacker-v-7.git
 ## Run script
 ```
 $ cd hacker-v-7
-$ python2 crack.py
+$ python2 hacker.py
 ```
 ## License 
 * ANGGAXD
