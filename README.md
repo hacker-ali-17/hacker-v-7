@@ -17,7 +17,12 @@
 * Cracking Pakistan
 * Cracking Indonesia
 * Cracking Afghanistan
-
+ 
+* تكسير بنجلاديش
+* تكسير الهند
+* تكسير باكستان
+* تكسير اندونيسيا
+* تصدع أفغانستان
 
 ## Install script on Termux
 ```
