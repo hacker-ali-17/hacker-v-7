@@ -31,7 +31,7 @@ $ pkg install python2
 $ pip2 install requests
 $ pip2 install mechanize
 $ pkg install git
-$ git clone https://github.com/aissaouiali2020/hacker-v-7.git
+$ git clone https://github.com/hacker-ali-17/hacker-v-7.git
 ```
 
 ## Run script
